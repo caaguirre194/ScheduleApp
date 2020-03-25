@@ -2,7 +2,7 @@
 Este proyecto es una Aplicación Android nativa de una agenda desarrollada netamente con Java en Android Studio.
 Dicha agenda cuenta con login, registro, recuperación de contraseña y menú principal.
 
-## GO-ANGULAR:
+## Android - Java:
  ![GitHub](/img/android.png)
  
 Using:
