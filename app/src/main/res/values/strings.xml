@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calcApp</string>
+    <string name="btn_regresar"></string>
+    <string name="btn_operar">OK</string>
+    <string name="btn_operarR">Validar</string>
+    <string name="title_operar">Operación</string>
+
+</resources>
